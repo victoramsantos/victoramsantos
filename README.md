@@ -8,6 +8,7 @@
 ## Olá 👋
 
 Sou poeta, amante de tecnologia e apaixonado por conhecimento.
+
 Trabalho aplicando a Engenharia de Software à cultura DevOps e de SRE, através de entregas com qualidade, automações de processos, soluções de arquitetura em cloud e infra como código.
 
 ### Formação
