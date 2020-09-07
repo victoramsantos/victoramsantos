@@ -22,5 +22,6 @@ Trabalho aplicando a Engenharia de Software à cultura DevOps e de SRE, através
 
 ### Artigos técnicos
 - [Dealing with transactions in a distributed microservice environment](https://medium.com/@victor.amsantos/dealing-with-transactions-in-a-distributed-microservice-environment-7d33d7f6087)
+- [A Netflix Backend Implementation](https://medium.com/@victor.amsantos/a-netflix-backend-implementation-2a227fe169dc)
 
 ---
