@@ -14,7 +14,7 @@ Trabalho aplicando a Engenharia de Software à cultura DevOps e de SRE, através
 ### Formação
 - Graduado em Sistemas de Informação no Instituto Federal do Espírito Santo
 - Mestre Informática pela Universidade Federal do Espírito Santo
-- MBA (em andamento) em Engenharia de Software na FIAP (Faculdade de Informática e Administração Paulista)
+- MBA em Engenharia de Software na FIAP (Faculdade de Informática e Administração Paulista)
 
 ### Certificação
 - [AWS Certified Solutions Architect - Associate
