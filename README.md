@@ -1,22 +1,31 @@
-# Victor Amorim dos Santos
+# Hi there, I'm Victor Amorim dos Santos 👋
 
-[![Medium Badge](https://img.shields.io/badge/medium-gray?link=https://medium.com/@victor.amsantos)](https://medium.com/@victor.amsantos)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-amsantos/)](https://www.linkedin.com/in/victor-amsantos/)
+**DevOps Engineer | SRE | Cloud Enthusiast**
 
-## Olá, Hi 👋
+I'm a passionate DevOps Engineer and SRE with a love for building scalable, reliable cloud infrastructure and observability platforms. My daily work involves Kubernetes, multi-cloud environments (AWS, GCP, Azure), and ensuring developers can sleep soundly thanks to robust monitoring.
 
-I'm a tech lover. 
+- 🔭  **I’m currently working on:** Improving observability and automation at scale.
+- 🌱  **I’m currently learning:** More about Go and advanced distributed systems patterns.
+- 💡  **I'm interested in:** SRE practices, cloud architecture, and open-source observability tools.
+- 💼  **My Expertise includes:** `Kubernetes`, `AWS`, `Terraform`, `Python`, `Prometheus`, `Thanos`, `VictoriaMetrics`, `Grafana`, `Splunk`, `CI/CD`.
+- 📝  **I regularly write articles** on [my Medium blog](https://medium.com/@victor-amsantos) about tech and observability.
+- 📫  **How to reach me:** 
+    - [LinkedIn](https://www.linkedin.com/in/victor-amsantos/)
 
-My daily work is to develop well-architected cloud solutions to improve the Observability in my company and to help developers have good sleep nights knowing that they will only be paged if we really have some problem :)
+---
 
-### Formation
-- Undergraduate on Information System by the Federal Institute of Espírito Santo (Sistemas de Informação pelo Instituto Federal do Espírito Santo)
-- Master degree Conceptual Modeling and Ontologies by the Federal University of Espírito Santo (Modelagem Conceitual e Ontologias pela Universidade Federal do Espírito Santo)
-- MBA in Software Engineer by FIAP (Engenharia de Software na FIAP - Faculdade de Informática e Administração Paulista)
+### 🛠️ My Tech Stack
 
-### Certification
-- [AWS Certified Solutions Architect - Associate
-](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2020-01-27&ci=AWS01053612)
+**Cloud & Infrastructure:**
+`Kubernetes` `Docker` `AWS` `GCP` `Azure` `Terraform` `ArgoCD`
+
+**Monitoring & Observability:**
+`Prometheus` `Thanos` `VictoriaMetrics` `Grafana` `Splunk` `Jaeger` `Elasticsearch` `Loki`
+
+**Programming & Scripting:**
+`Python` `Go` `Shell Script`
+
+---
 
 ### Technical Articles
 - [Dealing with transactions in a distributed microservice environment](https://medium.com/@victor.amsantos/dealing-with-transactions-in-a-distributed-microservice-environment-7d33d7f6087)
